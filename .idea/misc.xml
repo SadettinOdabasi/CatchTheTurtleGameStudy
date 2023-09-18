@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\sadet\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="641cd84f-44b5-4337-ba3a-b5a2d4293602" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (CatchTheTurtleGame)" project-jdk-type="Python SDK" />
+</project>
